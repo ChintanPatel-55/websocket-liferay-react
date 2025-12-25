@@ -1,0 +1,14 @@
+assemble:
+  - from: dist
+    into: static
+
+liferay-chat-ce:
+  name: React Chat Widget
+  type: customElement
+  friendlyURLMapping: liferay-chat-ce
+  htmlElementName: my-chat-widget
+  instanceable: true
+  portletCategoryName: category.client-extensions
+  urls:
+    - assets/index.js
+  useESM: true

@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+	},
+	"liferayDesignPack": {
+		"baseTheme": "styled"
+	},
+	"main": "package.json",
+	"name": "@liferay/adca-theme-css",
+	"version": "0.0.0"
+}

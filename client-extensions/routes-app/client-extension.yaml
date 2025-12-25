@@ -1,0 +1,14 @@
+assemble:
+  - from: build
+    into: static
+
+routes-app:
+  name: Simple Routes App
+  type: customElement
+  htmlElementName: routes-custom-element
+  # We forced this name in config-overrides.js
+  url: static/static/js/bundle.js
+  cssURLs:
+    - static/static/css/bundle.css
+  properties:
+    portlet-category-name: category.client-extensions

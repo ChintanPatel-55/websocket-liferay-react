@@ -1,0 +1,12 @@
+assemble:
+    -   from: build/buildTheme/img
+        into: static/img
+    -   from: build/buildTheme/images
+        into: static/images
+adca-theme-css:
+    clayRTLURL: css/clay_rtl.css
+    clayURL: css/clay.css
+    mainRTLURL: css/main_rtl.css
+    mainURL: css/main.css
+    name: Adca theme css
+    type: themeCSS

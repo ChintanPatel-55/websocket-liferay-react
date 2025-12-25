@@ -1,0 +1,13 @@
+adca-site-initializer:
+    name: Adca site initializer
+    oAuthApplicationHeadlessServer: adca-site-initializer-oahs
+    siteExternalReferenceCode: LIFERAY_SAMPLE
+    siteName: Liferay Samplez
+    type: siteInitializer
+adca-site-initializer-oahs:
+    .serviceAddress: localhost:8080
+    .serviceScheme: http
+    name: Liferay Sample Site Initializer OAuth Application Headless Server
+    scopes:
+        -   Liferay.Headless.Site.everything
+    type:   oAuthApplicationHeadlessServer

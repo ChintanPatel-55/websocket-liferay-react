@@ -1,0 +1,12 @@
+{
+  "description_i18n": {
+    "en_US": "This is a vocabulary for things related to fruits.",
+    "ar_SA": "هذه مفردات للأشياء المتعلقة بالفواكه."
+  },
+  "externalReferenceCode": "FruitVocabulary",
+  "name_i18n": {
+    "en_US": "Fruits",
+    "ar_SA": "الفواكه"
+  },
+  "numberOfTaxonomyCategories": 1
+}

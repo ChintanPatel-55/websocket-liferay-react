@@ -1,0 +1,8 @@
+assemble:
+    -   from: assets
+        hashify: test2.ico
+        into: static
+adca-theme-favicon:
+    name: Adca theme favicon
+    type: themeFavicon
+    url: test2.*.ico

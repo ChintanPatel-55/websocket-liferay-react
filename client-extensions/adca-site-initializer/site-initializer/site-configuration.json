@@ -1,0 +1,9 @@
+{
+  "active": true,
+  "description": "This is the official site description set via Site Initializer.",
+  "manualMembership": true,
+  "membershipRestriction": 0,
+  "parentSiteId": 0,
+  "site": true,
+  "typeSite": 1
+}

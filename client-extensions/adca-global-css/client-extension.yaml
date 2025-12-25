@@ -1,0 +1,9 @@
+assemble:
+    -   from: assets
+        hashify: global.css
+        into: static
+adca-global-css:
+    name: Adca global css
+    type: globalCSS
+    url: global.*.css
+    scope: company

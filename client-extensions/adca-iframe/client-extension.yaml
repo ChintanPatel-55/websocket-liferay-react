@@ -1,0 +1,15 @@
+adca-iframe-baseball:
+  name: Baseball
+  portletCategoryName: category.client-extensions
+  type: iframe
+  url: https://en.wikipedia.org/wiki/Baseball
+adca-iframe-football:
+  name: Football
+  portletCategoryName: category.client-extensions
+  type: iframe
+  url: https://en.wikipedia.org/wiki/Football
+adca-iframe-hockey:
+  name: Hockey
+  portletCategoryName: category.client-extensions
+  type: iframe
+  url: https://en.wikipedia.org/wiki/Hockey

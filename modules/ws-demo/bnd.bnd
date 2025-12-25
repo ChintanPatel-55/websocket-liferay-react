@@ -1,0 +1,3 @@
+Bundle-Name: WebSocket Demo
+Bundle-SymbolicName: com.adca.ws.demo
+Bundle-Version: 1.0.0

@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "client-extensions/my-react-custom-element",
+            "client-extensions/liferay-chat-ce",
+            "client-extensions/adca-theme-css",
+            "client-extensions/routes-app"
+        ]
+    }
+}

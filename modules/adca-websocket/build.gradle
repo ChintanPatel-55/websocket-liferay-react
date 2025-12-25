@@ -1,0 +1,10 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+
+    // Crucial for DXP 2025.Q4
+    compileOnly group: "jakarta.websocket", name: "jakarta.websocket-api", version: "2.1.1"
+    compileOnly group: "jakarta.websocket", name: "jakarta.websocket-client-api", version: "2.1.1"
+
+    compileOnly group: "org.osgi", name: "osgi.core"
+    compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations"
+}

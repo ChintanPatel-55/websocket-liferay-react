@@ -1,0 +1,15 @@
+{
+  "alternateName": "adca",
+  "birthDate": "1970-01-01T00:00:00Z",
+  "emailAddress": "adca@liferay.com",
+  "externalReferenceCode": "USER_ADCA_ADCA",
+  "familyName": "Adca",
+  "givenName": "User",
+  "jobTitle": "",
+  "password": "test",
+  "roleBriefs": [
+    {
+      "name": "Administrator"
+    }
+  ]
+}

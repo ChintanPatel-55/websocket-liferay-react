@@ -1,0 +1,10 @@
+dependencies {
+    compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+    compileOnly group: "org.osgi", name: "org.osgi.service.component.annotations"
+
+    // Jakarta WebSocket API (NOT javax)
+    compileOnly group: "jakarta.websocket", name: "jakarta.websocket-api", version: "2.1.1"
+    compileOnly group: "jakarta.websocket", name: "jakarta.websocket-client-api", version: "2.1.1"
+
+    compileOnly group: "jakarta.servlet", name: "jakarta.servlet-api", version: "6.0.0"
+}

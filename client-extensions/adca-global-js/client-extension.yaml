@@ -1,0 +1,13 @@
+assemble:
+    -   from: assets
+        hashify: global.js
+        into: static
+adca-globsl-js:
+    name: Adca global js
+    scriptElementAttributes:
+        async: true
+        data-attribute: value
+        data-senna-track: permanent
+        fetchpriority: high
+    type: globalJS
+    url: global.*.js
